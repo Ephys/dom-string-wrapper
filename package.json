@@ -1,0 +1,37 @@
+{
+  "name": "dom-string-wrapper",
+  "version": "1.0.0",
+  "description": "Creates a Range that wraps a specified string",
+  "keywords": [
+    "DOM"
+  ],
+  "author": "Guylian Cox <guyliancox@gmail.com>",
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "isparta-loader": "^2.0.0",
+    "jasmine": "^2.4.1",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.21",
+    "karma-chrome-launcher": "^0.2.2",
+    "karma-coverage": "^0.5.5",
+    "karma-firefox-launcher": "^0.1.7",
+    "karma-jasmine": "^0.3.7",
+    "karma-safari-launcher": "^0.1.1",
+    "karma-sourcemap-loader": "^0.3.7",
+    "karma-webpack": "^1.7.0",
+    "webpack": "^1.12.13"
+  },
+  "main": "src/main.js",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ephys/dom-string-wrapper/issues"
+  },
+  "homepage": "https://github.com/Ephys/dom-string-wrapper#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:Ephys/dom-string-wrapper.git"
+  }
+}
